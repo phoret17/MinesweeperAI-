@@ -18,7 +18,7 @@ MinesweeperAI is an AI project that plays the classic Minesweeper game using **l
 ---
 
 # 🎮 Demo
-![MinesweeperAI Demo]("C:\Users\HOA\Downloads\demo.gif")
+!demo.gif
 
 
 # ⚙️ Cài đặt | Installation
