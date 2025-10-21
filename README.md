@@ -30,7 +30,7 @@ MinesweeperAI is an AI project that plays the classic Minesweeper game using **l
 | **File**       | **Description** |
 |----------------|-----------------|
 | `main.py`      | Main entry point. Controls the game loop (Menu ↔ Game). |
-| `game_ui.py`   | **User Interface (UI)**. Contains all Pygame code for drawing the board, header, and settings menu. |
+| `UI.py`   | **User Interface (UI)**. Contains all Pygame code for drawing the board, header, and settings menu. |
 | `Game.py`      | **Game Logic**. Contains the `Minesweeper` class that manages the board state, rules, and win/loss conditions. |
 | `AI.py`        | **AI Logic**. Contains the `AI` and `Statement` classes, responsible for building knowledge and reasoning. |
 
